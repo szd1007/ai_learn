@@ -41,6 +41,8 @@ class Dog(Animal):
         print('Dog is running...')
     def eat(self):
         print('Dog is eating...')
+    def __len__(self):
+        return 100
 
 class Cat(Animal):
     def run(self):
@@ -70,7 +72,6 @@ def run_twice(animal):
 # run_twice(Timer())
 
 #获取对象信息
-
 
 
 
