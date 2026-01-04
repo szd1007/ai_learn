@@ -2,8 +2,8 @@
 
 
 1.2025-11 - 2025-12  python入门
-- 廖雪峰，视频编程前
-- 一本书  https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
+- [done_20260104]廖雪峰，到图形界面前  https://liaoxuefeng.com/books/python/introduction/index.html
+-  python数据分析  https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
 
 
 
